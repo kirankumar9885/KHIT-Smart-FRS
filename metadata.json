@@ -1,0 +1,11 @@
+{
+  "name": "KHIT SmartFRS - College Facial Recognition Attendance System",
+  "description": "Automated biometric face recognition system for college student attendance, daily check-in kiosk with anti-spoofing, live webcam recognition, and institutional attendance reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
